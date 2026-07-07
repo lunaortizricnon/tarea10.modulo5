@@ -1,0 +1,9 @@
+1. Como líder de la comunidad quiero recibir los reportes más urgentes para poder darles seguimiento lo más rápido posible.
+
+2. Como ciudadano quiero saber si el reporte que envié fue revisado para tener la tranquilidad de que no quedó olvidado.
+
+3. Como integrante de la veeduría quiero organizar los reportes por tema para encontrarlos más fácil cuando los necesite.
+
+4. Como administrador quiero llevar un registro de las novedades para tener evidencia de lo que se ha hecho.
+
+5. Como vecino quiero conocer los avances de los casos reportados para mantenerme informado sobre lo que pasa en mi comunidad.

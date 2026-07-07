@@ -1,0 +1,10 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+R: Primero haría recibir los reportes más urgentes y después revisar si esos reportes ya fueron atendidos o necesitan seguimiento.
+
+2. ¿Por qué son las más importantes?
+R: Porque así los problemas que afectan más a la comunidad se pueden atender primero y las personas ven que sus reportes sí son tenidos en cuenta.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+R: - Ya quedó funcionando correctamente.
+   - Se revisó que no tenga errores.
+   - Se guardó el trabajo para que todo el equipo pueda verlo.
